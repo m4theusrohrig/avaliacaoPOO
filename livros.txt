@@ -1,0 +1,9 @@
+[
+  {
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J. K. Rowling",
+    "isbn": "978-85-325-1025-0",
+    "anoPublicacao": "1997",
+    "disponivel": true
+  }
+]
