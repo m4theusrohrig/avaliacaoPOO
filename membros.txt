@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "matricula": 84512,
+    "nome": "Maria Oliveira",
+    "endereco": "Avenida Central, 120",
+    "telefone": "53 99845-2211",
+    "dividas": []
+  },
+  {
+    "matricula": 91234,
+    "nome": "Carlos Pereira",
+    "endereco": "Rua Azul, 300",
+    "telefone": "53 99777-3321",
+    "dividas": []
+  },
+  {
+    "matricula": 77890,
+    "nome": "Fernanda Costa",
+    "endereco": "Rua Bela Vista, 82",
+    "telefone": "53 99622-9990",
+    "dividas": []
+  }
+]

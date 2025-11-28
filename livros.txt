@@ -5,5 +5,26 @@
     "isbn": "978-85-325-1025-0",
     "anoPublicacao": "1997",
     "disponivel": true
-  }
+  },
+  {
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "autor": "J. R. R. Tolkien",
+      "isbn": "978-0-261-10235-4",
+      "anoPublicacao": "1954",
+      "disponivel": true
+    },
+    {
+      "titulo": "A Culpa é das Estrelas",
+      "autor": "John Green",
+      "isbn": "978-85-980-7833-8",
+      "anoPublicacao": "2012",
+      "disponivel": true
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "isbn": "978-85-359-0277-7",
+      "anoPublicacao": "1949",
+      "disponivel": true
+    }
 ]
