@@ -1,4 +1,3 @@
-// Util.ts
 export function stringToDate(s: string): Date | null {
   // aceita dd/mm/yyyy ou yyyy-mm-dd
   s = (s || "").trim();

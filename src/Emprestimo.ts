@@ -125,7 +125,6 @@ export default class Emprestimo {
     biblioteca.emprestimos.forEach((livro) => {
       let registroEncontrado = null;
 
-      // 🔄 substituindo findLast()
       for (let i = biblioteca.historico.length - 1; i >= 0; i--) {
         const h = biblioteca.historico[i];
         if (h.livro.isbn === livro.isbn && h.dataDevolucao === "PENDENTE") {

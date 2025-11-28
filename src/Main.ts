@@ -1,4 +1,3 @@
-// Main.ts
 import PromptSync from "prompt-sync";
 import Biblioteca from "./Biblioteca";
 import Membro from "./Membro";
